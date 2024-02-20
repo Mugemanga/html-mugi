@@ -1,0 +1,67 @@
+.muge > img {
+    float: left;
+} 
+
+h1 {
+    color: #5928e5;
+}  
+
+div {
+    display: inline-block;
+}
+
+* {
+    background-color: #faf9f6;
+} 
+
+body { 
+    margin: 50px 50px 0 50px; 
+    padding: 0px; 
+    display: flex; 
+    flex-direction: column; 
+    min-height: 95vh;
+}  
+.poppins-thin {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal; 
+    }
+
+.muge > p {
+    float: right;
+}   
+
+div > img {
+    float: left; 
+    margin-bottom: 20px;  
+    
+}
+
+.mute { 
+    color: #5928e5;
+} 
+
+.mute {
+    display: inline-block;
+} 
+footer {
+    text-align: right;
+} 
+.mute {
+    width: 45%;
+}  
+h3 {
+    color: coral; 
+    text-align: end; 
+    font-family: "Dancing Script", cursive; 
+    font-size: 2em;
+}
+
+h4 {
+    text-align: center; 
+    color: white; 
+    background-color: black;
+} 
+
+
+
